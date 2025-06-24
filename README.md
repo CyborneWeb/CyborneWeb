@@ -34,17 +34,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyborneWeb&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=CyborneWeb&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=CyborneWeb&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborneWeb&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 
-- 💼 LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)
-- 📷 Instagram: [yourinstagram](https://instagram.com/yourinstagram)
-- ✉️ Email: [your@email.com](mailto:your@email.com)
+- 📷 Instagram: [matic.stucin](https://www.instagram.com/matic_stucin/)
+- ✉️ Email: [matic.stucin@gmail.com](mailto:matic.stucin@gmail.com)
 
 ---
 
