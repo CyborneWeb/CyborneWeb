@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm CyborneWeb!</h1>
+<h1 align="center">Hi there 👋, I'm Matic Štucin (aka. CyborneWeb)!</h1>
 <h3 align="center">💻 Student  | 🌐 Aspiring Web Developer</h3>
 
 <p align="center">
