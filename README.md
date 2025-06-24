@@ -34,7 +34,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CyborneWeb&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=CyborneWeb&show_icons=true&theme=tokyonight" /> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborneWeb&layout=compact&theme=tokyonight" />
 </p>
 
@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Full-Stack+in+Progress...;Let’s+build+something+great!&center=true&width=380&height=45">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=40&pause=1000&color=8D3E97&background=CAADB3&center=true&vCenter=true&width=474&lines=Welcome+to+my+Github;Currently+learning+new+technologies)](https://git.io/typing-svg)
 </p>
