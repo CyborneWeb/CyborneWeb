@@ -49,7 +49,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=40&pause=1000&color=8D3E97&background=CAADB3&center=true&vCenter=true&width=474&lines=Welcome+to+my+Github;Currently+learning+new+technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=40&pause=1000&color=8D3E97&background=CAADB3&center=true&vCenter=true&width=474&lines=Welcome+to+my+Github" />
 </p>
+
 
 
