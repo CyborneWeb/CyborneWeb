@@ -9,7 +9,7 @@
 ---
 
 ### 🎓 About Me
-- 👨‍🎓 I'm currently a student at **[FRI - Fakulteta za Računalništvo in Informatiko, Univerza v Ljubljani](https://www.fri.uni-lj.si/)**  
+- 👨‍🎓 I'm hoping to become a student at **[FRI - Fakulteta za Računalništvo in Informatiko, Univerza v Ljubljani](https://www.fri.uni-lj.si/)**  
 - 🌱 I’m focused on learning **as much web development as possible**  
 - 🚀 Right now, I’m diving deep into the **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 🔭 I love building full-stack apps and exploring modern web tech  
