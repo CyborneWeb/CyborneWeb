@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm CyborneWeb!</h1>
-<h3 align="center">💻 Student @ FRI | 🌐 Aspiring MERN Stack Web Developer</h3>
+<h3 align="center">💻 Student  | 🌐 Aspiring Web Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
