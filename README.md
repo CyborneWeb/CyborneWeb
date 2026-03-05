@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Matic Štucin (aka. CyborneWeb)!</h1>
 <h3 align="center">💻 Student  | 🌐 Aspiring Web Developer</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
 </p>
@@ -9,7 +8,7 @@
 ---
 
 ### 🎓 About Me
-- 👨‍🎓 I'm hoping to become a student at **[FRI - Fakulteta za Računalništvo in Informatiko, Univerza v Ljubljani](https://www.fri.uni-lj.si/)**  
+- 👨‍🎓 I am currently studying Computer science at Fakulteta za računalništvo in Informatiko, Univerza v Ljubljani
 - 🌱 I’m focused on learning **as much web development as possible**  
 - 🚀 Right now, I’m diving deep into the **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 🔭 I love building full-stack apps and exploring modern web tech  
