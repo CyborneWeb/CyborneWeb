@@ -5,7 +5,8 @@
 
 ### 💻 Computer Science Student | 🌐 MERN Stack Developer | 🚀 Full-Stack Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/CyborneWeb?label=Follow&style=social)](https://github.com/CyborneWeb)
+
+[![Github](https://img.shields.io/github/followers/cyborneWeb?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/CyborneWeb)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matic.stucin@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matic_stucin/)
 
