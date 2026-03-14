@@ -3,7 +3,7 @@
 ![ascii-art-text](https://i.imgur.com/uBCHBYT.png)
 
 
-### 💻 Computer Science Student | 🌐 MERN Stack Developer | 🚀 Full-Stack Enthusiast
+### 💻 Computer Science Student | 🌐 Aspiring Web and Software developer
 
 
 [![Github](https://img.shields.io/github/followers/cyborneWeb?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/CyborneWeb)
