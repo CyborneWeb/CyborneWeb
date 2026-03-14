@@ -1,6 +1,6 @@
 <div align="center">
 
-![ascii-art-text](https://i.imgur.com/3A5Q8jT.png)
+![ascii-art-text](https://i.imgur.com/uBCHBYT.png)
 
 
 ### 💻 Computer Science Student | 🌐 MERN Stack Developer | 🚀 Full-Stack Enthusiast
