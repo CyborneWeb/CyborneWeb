@@ -75,5 +75,6 @@ I'm always excited to talk about web development, collaborate on projects, or ju
 </div>
 
 
+<img src="https://raw.githubusercontent.com/CyborneWeb/CyborneWeb/cd4fb69f4a4c8dcaffd29e7d0fc6a819d2bce2e3/assets/wave.svg" width="100%" />
 
 
