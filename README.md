@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matic.stucin@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matic_stucin/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8D3E97&background=CAADB3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+%26+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a106bd&background=0d0c33&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Web+Developer;Always+Learning+%26+Growing" />
 
 ---
 
@@ -43,14 +43,13 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
 [![Matic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyborneWeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=eaeaea)](https://github.com/CyborneWeb)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyborneWeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=eaeaea&width=800)](https://github.com/CyborneWeb)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyborneWeb&layout=compact&custom_title=My%20languages&card_width=460&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
