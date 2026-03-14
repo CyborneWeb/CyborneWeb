@@ -1,7 +1,7 @@
 <div align="center">
-
-![ascii-art-text](https://i.imgur.com/uBCHBYT.png)
-
+<picture>
+<img src="https://i.imgur.com/uBCHBYT.png" />
+</picture>
 
 ### 💻 Computer Science Student | 🌐 Aspiring Web and Software developer
 
@@ -10,8 +10,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matic.stucin@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matic_stucin/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a106bd&background=0d0c33&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Web+Developer;Always+Learning+%26+Growing" />
 
+<picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a106bd&background=0d0c33&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Web+Developer;Always+Learning+%26+Growing" />
+</picture>
 
 
 </div>
@@ -39,7 +41,7 @@
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 </div>
 
@@ -75,7 +77,7 @@ I'm always excited to talk about web development, collaborate on projects, or ju
 
 </div>
 
-
+<picture>
 <img src="https://raw.githubusercontent.com/CyborneWeb/CyborneWeb/cd4fb69f4a4c8dcaffd29e7d0fc6a819d2bce2e3/assets/wave.svg" width="100%" />
-
+</picture>
 
