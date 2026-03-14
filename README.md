@@ -2,6 +2,20 @@
 
 # 👋 Hi there! I'm Matic Štucin (CyborneWeb)
 
+```
+  /$$$$$$            /$$                                              
+ /$$__  $$          | $$                                              
+| $$  \__/ /$$   /$$| $$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$$   /$$$$$$ 
+| $$      | $$  | $$| $$__  $$ /$$__  $$ /$$__  $$| $$__  $$ /$$__  $$
+| $$      | $$  | $$| $$  \ $$| $$  \ $$| $$  \__/| $$  \ $$| $$$$$$$$
+| $$    $$| $$  | $$| $$  | $$| $$  | $$| $$      | $$  | $$| $$_____/
+|  $$$$$$/|  $$$$$$$| $$$$$$$/|  $$$$$$/| $$      | $$  | $$|  $$$$$$$
+ \______/  \____  $$|_______/  \______/ |__/      |__/  |__/ \_______/
+           /$$  | $$                                                  
+          |  $$$$$$/                                                  
+           \______/                                                   
+```
+
 ### 💻 Computer Science Student | 🌐 MERN Stack Developer | 🚀 Full-Stack Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/CyborneWeb?label=Follow&style=social)](https://github.com/CyborneWeb)
