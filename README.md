@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a106bd&background=0d0c33&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Web+Developer;Always+Learning+%26+Growing" />
 
----
+
 
 </div>
 
@@ -23,7 +23,7 @@
 - 💡 **Love building** full-stack applications with modern technologies
 - 🌍 **Based in** Slovenia
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -53,19 +53,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyborneWeb&layout=compact&custom_title=My%20languages&card_width=460&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
----
 
-## 🌟 Featured Projects
 
-Coming soon! Check back for exciting MERN stack projects...
 
----
 
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyborneWeb&theme=tokyo-night&hide_border=true&bg_color=1a1b26)
 
----
+
 
 ## 💬 Let's Connect!
 
@@ -78,10 +74,6 @@ I'm always excited to talk about web development, collaborate on projects, or ju
 
 </div>
 
----
-
-<div align="center">
-v
 
 
-</div>
+
