@@ -49,7 +49,7 @@
 
 [![Matic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyborneWeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=eaeaea)](https://github.com/CyborneWeb)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyborneWeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=eaeaea)](https://github.com/CyborneWeb)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyborneWeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=eaeaea&width=800)](https://github.com/CyborneWeb)
 
 </div>
 
