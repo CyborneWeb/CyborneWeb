@@ -63,9 +63,9 @@
 
 <div align="center">
 
-[![Matic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyborneWeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=eaeaea)](https://github.com/CyborneWeb)
+![Cyborne's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyborneWeb&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyborneWeb&layout=compact&custom_title=My%20languages&card_width=460&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyborneWeb&layout=compact&custom_title=My%20languages&card_width=460&theme=tokyonight&stats_format=bytes)
 </div>
 
 
